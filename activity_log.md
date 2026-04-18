@@ -7,3 +7,4 @@
 - [2026-04-18T13:06:25Z] refactor: simplify conditional logic
 - [2026-04-18T16:59:25Z] style: apply consistent code formatting
 - [2026-04-18T09:46:10Z] chore: update dependencies to latest versions
+- [2026-04-18T21:10:36Z] feat: add helper utility function
